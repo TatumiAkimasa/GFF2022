@@ -103,7 +103,11 @@ MonoBehaviour:
   m_MinSize: {x: 911, y: 442}
   m_MaxSize: {x: 22006, y: 10021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 136
+=======
+  controlID: 138
+>>>>>>> 新たな道
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -149,7 +153,11 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 16
+=======
+  controlID: 54
+>>>>>>> 新たな道
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -308,8 +316,13 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
       m_SelectedIDs: 
       m_LastClickedID: 0
+=======
+      m_SelectedIDs: a8faffff
+      m_LastClickedID: -1368
+>>>>>>> 新たな道
       m_ExpandedIDs: 52fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -422,9 +435,15 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 643c0000
     m_LastClickedID: 15460
     m_ExpandedIDs: 000000005c3c000000ca9a3b
+=======
+    m_SelectedIDs: 7e3c0000
+    m_LastClickedID: 15486
+    m_ExpandedIDs: 00000000763c000000ca9a3b
+>>>>>>> 新たな道
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -452,7 +471,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 000000005c3c0000
+=======
+    m_ExpandedIDs: 00000000763c0000
+>>>>>>> 新たな道
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

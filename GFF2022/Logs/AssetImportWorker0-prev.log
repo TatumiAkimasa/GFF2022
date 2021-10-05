@@ -136,3 +136,4 @@ Received Import Request.
 Start importing Assets/Tree.prefab using Guid(1f05aeea970ce99498d6c9db024eb7cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc882908dbd711ef6a4905dccf9f80f9') in 0.463686 seconds 
   Import took 0.466264 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

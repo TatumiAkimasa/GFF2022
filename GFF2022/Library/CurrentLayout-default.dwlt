@@ -15,6 +15,7 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 706
     y: 303
     width: 1206
@@ -29,6 +30,14 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: Hierarchy
 >>>>>>> 実験体８
+=======
+    x: 374
+    y: 206
+    width: 1206
+    height: 715
+  m_ShowMode: 4
+  m_Title: "\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8"
+>>>>>>> e1cd14582031b2017f138bd8302524a5b5728e3a
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 492}
   m_MaxSize: {x: 10000, y: 10000}
@@ -113,10 +122,14 @@ MonoBehaviour:
   m_MaxSize: {x: 22006, y: 10021}
   vertical: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 166
 =======
   controlID: 100
 >>>>>>> 実験体８
+=======
+  controlID: 99
+>>>>>>> e1cd14582031b2017f138bd8302524a5b5728e3a
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -163,10 +176,14 @@ MonoBehaviour:
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 208
 =======
   controlID: 36
 >>>>>>> 実験体８
+=======
+  controlID: 60
+>>>>>>> e1cd14582031b2017f138bd8302524a5b5728e3a
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -312,11 +329,12 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
-    m_Text: Hierarchy
+    m_Text: "\u30D2\u30A8\u30E9\u30EB\u30AD\u30FC"
     m_Image: {fileID: 7966133145522015247, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
     x: 1202
     y: 333
@@ -324,12 +342,17 @@ MonoBehaviour:
     x: 876
     y: 253
 >>>>>>> 実験体８
+=======
+    x: 497
+    y: 19
+>>>>>>> e1cd14582031b2017f138bd8302524a5b5728e3a
     width: 200
     height: 644
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
       m_SelectedIDs: dc3c0000
       m_LastClickedID: 0
 <<<<<<< HEAD
@@ -337,6 +360,11 @@ MonoBehaviour:
 =======
       m_ExpandedIDs: d2f8ffff54fbffff
 >>>>>>> 実験体８
+=======
+      m_SelectedIDs: b23c0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 46faffff7efaffff52fbffff
+>>>>>>> e1cd14582031b2017f138bd8302524a5b5728e3a
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -359,7 +387,11 @@ MonoBehaviour:
     m_LockTracker:
       m_IsLocked: 0
     m_CurrentSortingName: TransformSorting
+<<<<<<< HEAD
   m_WindowGUID: fc84029d2444b0f429a82d38d574b431
+=======
+  m_WindowGUID: 78868cea04fd3e64da00e5ec1c35e549
+>>>>>>> e1cd14582031b2017f138bd8302524a5b5728e3a
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -375,11 +407,12 @@ MonoBehaviour:
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
-    m_Text: Inspector
+    m_Text: "\u30A4\u30F3\u30B9\u30DA\u30AF\u30BF\u30FC"
     m_Image: {fileID: -2667387946076563598, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
     x: 1636
     y: 333
@@ -387,6 +420,10 @@ MonoBehaviour:
     x: 1310
     y: 253
 >>>>>>> 実験体８
+=======
+    x: 1304
+    y: 236
+>>>>>>> e1cd14582031b2017f138bd8302524a5b5728e3a
     width: 275
     height: 644
   m_ViewDataDictionary: {fileID: 0}
@@ -417,11 +454,12 @@ MonoBehaviour:
   m_MinSize: {x: 230, y: 250}
   m_MaxSize: {x: 10000, y: 10000}
   m_TitleContent:
-    m_Text: Project
+    m_Text: "\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8"
     m_Image: {fileID: -5467254957812901981, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
     x: 1404
     y: 333
@@ -429,6 +467,10 @@ MonoBehaviour:
     x: 1078
     y: 253
 >>>>>>> 実験体８
+=======
+    x: 1072
+    y: 236
+>>>>>>> e1cd14582031b2017f138bd8302524a5b5728e3a
     width: 230
     height: 644
   m_ViewDataDictionary: {fileID: 0}
@@ -453,11 +495,12 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: "C:\\Users\\GA4\\Desktop\\\u65B0\u3057\u3044\u30D5\u30A9\u30EB\u30C0\u30FC\\GFF2022"
+  m_LastProjectPath: C:\Users\GA2B\Desktop\hukuoka2022\GFF2022
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_SelectedIDs: a23c0000
     m_LastClickedID: 15522
@@ -467,6 +510,11 @@ MonoBehaviour:
     m_LastClickedID: 15530
     m_ExpandedIDs: 000000009c3c000000ca9a3b
 >>>>>>> 実験体８
+=======
+    m_SelectedIDs: ae3c0000
+    m_LastClickedID: 15534
+    m_ExpandedIDs: 000000009e3c000000ca9a3b
+>>>>>>> e1cd14582031b2017f138bd8302524a5b5728e3a
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -569,11 +617,12 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
-    m_Text: Game
+    m_Text: "\u30B2\u30FC\u30E0"
     m_Image: {fileID: -6423792434712278376, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
     x: 706
     y: 674
@@ -581,6 +630,10 @@ MonoBehaviour:
     x: 380
     y: 594
 >>>>>>> 実験体８
+=======
+    x: 374
+    y: 577
+>>>>>>> e1cd14582031b2017f138bd8302524a5b5728e3a
     width: 495
     height: 303
   m_ViewDataDictionary: {fileID: 0}
@@ -663,11 +716,12 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
-    m_Text: Scene
+    m_Text: "\u30B7\u30FC\u30F3"
     m_Image: {fileID: 2593428753322112591, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
     x: 706
     y: 333
@@ -675,11 +729,19 @@ MonoBehaviour:
     x: 380
     y: 253
 >>>>>>> 実験体８
+=======
+    x: 374
+    y: 236
+>>>>>>> e1cd14582031b2017f138bd8302524a5b5728e3a
     width: 495
     height: 320
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
+<<<<<<< HEAD
   m_WindowGUID: df71f03683606764391181080a88cc9a
+=======
+  m_WindowGUID: e1786da749cba284a84558115b6d8b56
+>>>>>>> e1cd14582031b2017f138bd8302524a5b5728e3a
   m_Gizmos: 1
   m_OverrideSceneCullingMask: 6917529027641081856
   m_SceneIsLit: 1

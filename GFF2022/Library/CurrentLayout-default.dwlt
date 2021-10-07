@@ -14,12 +14,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 706
     y: 303
     width: 1206
     height: 715
   m_ShowMode: 4
   m_Title: Project
+=======
+    x: 380
+    y: 223
+    width: 1206
+    height: 715
+  m_ShowMode: 4
+  m_Title: Hierarchy
+>>>>>>> 実験体８
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 492}
   m_MaxSize: {x: 10000, y: 10000}
@@ -103,7 +112,11 @@ MonoBehaviour:
   m_MinSize: {x: 911, y: 442}
   m_MaxSize: {x: 22006, y: 10021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 166
+=======
+  controlID: 100
+>>>>>>> 実験体８
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -149,7 +162,11 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 208
+=======
+  controlID: 36
+>>>>>>> 実験体８
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -300,8 +317,13 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1202
     y: 333
+=======
+    x: 876
+    y: 253
+>>>>>>> 実験体８
     width: 200
     height: 644
   m_ViewDataDictionary: {fileID: 0}
@@ -310,7 +332,11 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: dc3c0000
       m_LastClickedID: 0
+<<<<<<< HEAD
       m_ExpandedIDs: 12f9ffff40f9ffff78f9ffffa6f9ffff
+=======
+      m_ExpandedIDs: d2f8ffff54fbffff
+>>>>>>> 実験体８
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -354,8 +380,13 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1636
     y: 333
+=======
+    x: 1310
+    y: 253
+>>>>>>> 実験体８
     width: 275
     height: 644
   m_ViewDataDictionary: {fileID: 0}
@@ -391,8 +422,13 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1404
     y: 333
+=======
+    x: 1078
+    y: 253
+>>>>>>> 実験体８
     width: 230
     height: 644
   m_ViewDataDictionary: {fileID: 0}
@@ -422,9 +458,15 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: a23c0000
     m_LastClickedID: 15522
     m_ExpandedIDs: 000000009e3c000000ca9a3b
+=======
+    m_SelectedIDs: aa3c0000
+    m_LastClickedID: 15530
+    m_ExpandedIDs: 000000009c3c000000ca9a3b
+>>>>>>> 実験体８
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -452,7 +494,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 000000009e3c000000ca9a3b
+=======
+    m_ExpandedIDs: 000000009c3c0000
+>>>>>>> 実験体８
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -528,8 +574,13 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 706
     y: 674
+=======
+    x: 380
+    y: 594
+>>>>>>> 実験体８
     width: 495
     height: 303
   m_ViewDataDictionary: {fileID: 0}
@@ -617,8 +668,13 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 706
     y: 333
+=======
+    x: 380
+    y: 253
+>>>>>>> 実験体８
     width: 495
     height: 320
   m_ViewDataDictionary: {fileID: 0}
@@ -633,9 +689,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: -0.23111343, y: 0.62565327, z: -2.8506212}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: -0.23111343, y: 0.62565327, z: -2.8506212}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -682,9 +738,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Target: {x: -0.11018863, y: 0.83260334, z: -0.17903884, w: -0.51242185}
     speed: 2
-    m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Value: {x: -0.11041573, y: 0.8338664, z: -0.18061951, w: -0.50975645}
   m_Size:
     m_Target: 10
     speed: 2

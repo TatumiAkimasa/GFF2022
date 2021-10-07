@@ -4,11 +4,5 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/sato.unity
-    guid: 855005d9176272544aa3bd0c29ed69c8
-  - enabled: 1
-    path: Assets/Scenes/tatumi.unity
-    guid: 646866ad367b14e49b1c747b3e56798c
+  m_Scenes: []
   m_configObjects: {}

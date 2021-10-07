@@ -1,14 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.SceneManagement;
-
-public class Scenemove : MonoBehaviour
-{
-    [Header("ˆÚ“®‚µ‚½‚¢ƒV[ƒ“–¼“ü—Í")]
-    public string[] SceneName;
-
-    public void PushButton() {
-        SceneManager.LoadScene(SceneName[0]);
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b14f856c62e4f9bb151f85fef4fb3d50ed40f6687374f89eeb00a3e132e659d
+size 476
